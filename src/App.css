@@ -9,7 +9,7 @@
   margin: auto;
   width: 100%;
   background-color:#3B293D;
-  font-size: calc(30px + 2vmin);
+  font-size: calc(27px + 2vmin);
   color: whitesmoke;
   min-height: 100px;
 }
@@ -23,8 +23,8 @@
 
 .Title{
   position: relative;
-  top: 20px;
-  left: 10px;
+  top: 15px;
+  left: 5px;
   color: whitesmoke; 
   text-decoration: none;
 }
@@ -109,7 +109,7 @@
   }
   .Title{
     top: 40px;
-    left: 10px;
+    left: 5px;
     color: whitesmoke; 
     text-decoration: none;
   }
