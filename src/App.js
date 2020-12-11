@@ -21,11 +21,12 @@ function App() {
               <a href="https://www.esterform.com/">
               <h3>Produkty</h3>
               </a>
+              
               <a href="https://www.esterform.com/">
               <button className="btn-primary"> Obejrzyj Nasze Produkty</button>
               </a>
               <p>Przejdź do strony z produktami</p>
-              
+              <div className="break"></div>
           </div>
           <div className="article">
               <h3>Kontakt</h3>
@@ -36,14 +37,13 @@ function App() {
           0000604978,  NIP: 7822611242,  REGON: 363829668</p>
           </div>
           <div className="article">
-              <h3>Zakład produkcyjny</h3>
+              <h3>Zakład Produkcyjny</h3>
               <p>ul. Wróblewskiego 2, 14-300 Morąg</p>
               
           </div>
           <div className="article">
               <h3>Biuro</h3>
-              <p>Abpa Antoniego Baraniaka 88E, 61-131 Poznań, PL</p>
-              
+              <p>Abpa Antoniego Baraniaka 88E, 61-131 Poznań, PL</p>    
           </div>
           </div>
           <footer>
