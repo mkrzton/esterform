@@ -14,7 +14,7 @@ function App() {
               Esterform Polska
           </div>   
           </a>
-          <p>Światowej klasy pojemniki i preformy</p>    
+          <p>Największy producent preform i pojemników PET</p>    
       </header>
       <div class="article-container">
           <div className="article">
